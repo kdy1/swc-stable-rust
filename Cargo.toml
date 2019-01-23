@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 swc_ecma_parser = "0.8.0"
+swc_ecma_codegen = "0.5.1"
